@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,mongodb,postgres,docker,git,github,aws,azure&theme=light" height="35" alt="Technical skills" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,mongodb,postgres,docker,git,github,aws,azure,grafana&theme=light" height="35" alt="Technical skills" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-FFFFFF?style=flat-square&logo=microsoftfabric&logoColor=742774" height="35" alt="Microsoft Fabric" />
 </p>
 
 <p align="center">
@@ -7,9 +8,9 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-FFFFFF?style=flat-square&logo=apachekafka&logoColor=231F20" height="22" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/Apache%20Flink-FFFFFF?style=flat-square&logo=apacheflink&logoColor=E6526F" height="22" alt="Apache Flink" />
   <img src="https://img.shields.io/badge/Hadoop-FFFFFF?style=flat-square&logo=apachehadoop&logoColor=66CCFF" height="22" alt="Hadoop" />
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB" height="22" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-FFFFFF?style=flat-square&logo=databricks&logoColor=E25A1C" height="22" alt="SQL" />
 </p>
+
 
 ## About Me
 
