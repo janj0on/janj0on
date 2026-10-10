@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,mysql,mongodb,postgres,docker,git,github,aws,azure,grafana&theme=light" height="35" alt="Technical skills" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-FFFFFF?style=flat-square&logo=microsoftfabric&logoColor=742774" height="35" alt="Microsoft Fabric" />
-</p>
+  <img src="https://cdn.simpleicons.org/microsoftfabric/742774" height="35" alt="Microsoft Fabric" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apache%20Spark-FFFFFF?style=flat-square&logo=apachespark&logoColor=E25A1C" height="22" alt="Apache Spark" />
