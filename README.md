@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,mongodb,postgres,docker,git,github,aws,azure,grafana&theme=light" height="35" alt="Technical skills" />
-  <img src="https://cdn.simpleicons.org/microsoftfabric/742774" height="35" alt="Microsoft Fabric" />
-
+  <a href="https://se.pinterest.com/pin/118852877657025652/">
+    <img src="PASTE_DIRECT_GIF_URL_HERE" width="300" alt="Welcome GIF" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Spark-FFFFFF?style=flat-square&logo=apachespark&logoColor=E25A1C" height="22" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-FFFFFF?style=flat-square&logo=apachekafka&logoColor=231F20" height="22" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Apache%20Flink-FFFFFF?style=flat-square&logo=apacheflink&logoColor=E6526F" height="22" alt="Apache Flink" />
-  <img src="https://img.shields.io/badge/Hadoop-FFFFFF?style=flat-square&logo=apachehadoop&logoColor=66CCFF" height="22" alt="Hadoop" />
-  <img src="https://img.shields.io/badge/SQL-FFFFFF?style=flat-square&logo=databricks&logoColor=E25A1C" height="22" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,mongodb,postgres,docker,git,github,aws,azure,grafana&theme=light" height="35" alt="Technical skills" />
+  <img src="https://cdn.simpleicons.org/microsoftfabric/742774" height="35" alt="Microsoft Fabric" />
 </p>
+
 
 
 ## About Me
