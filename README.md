@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PASTE_DIRECT_GIF_URL_HERE" width="100%" alt="Banner" />
+  <img src="assets/banner.gif" width="100%" alt="Hello and welcome" />
 </p>
 
 <p align="center">
