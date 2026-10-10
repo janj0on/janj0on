@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,mysql,mongodb,postgres,docker,git,github,aws,azure,grafana&theme=light" height="35" alt="Technical skills" />
-  <img src="assets/fabric.svg" height="35" alt="Microsoft Fabric" />
 </p>
 
 <p align="center">
