@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://se.pinterest.com/pin/118852877657025652/">
-    <img src="PASTE_DIRECT_GIF_URL_HERE" width="300" alt="Welcome GIF" />
+    <img src="(https://dribbble.com/shots/11391612-hello-and-welcome-GIF-for-newsletter?utm_source=Pinterest&utm_medium=organic)" width="300" alt="Welcome GIF" />
   </a>
 </p>
 
