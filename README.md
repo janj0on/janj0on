@@ -38,7 +38,7 @@ I'm a Computer Science student at Benha University, Faculty of Computers and Art
 
 **Databases:** MySQL, PostgreSQL, SQL Server, MariaDB, MongoDB, Redis
 
-**Cloud:** Microsoft Azure, AWS
+**Cloud:** Microsoft Fabric, AWS, Databricks
 
 **Other Tools:** Docker, Git, GitHub, Anaconda, Grafana, Postman
 
